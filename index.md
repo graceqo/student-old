@@ -6,7 +6,7 @@ title: Student Blog
 
 
 ## Welcome!
-## This is Grace Oswald's Blog.
+## Grace Oswald's Blog.
 
 
 
